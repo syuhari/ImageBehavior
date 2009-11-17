@@ -1,16 +1,5 @@
 <?php
 
-/* 
- * Image for cakePHP 
- * comments, bug reports are welcome skie AT mail DOT ru 
- * @author Yevgeny Tomenko aka SkieDr 
- * @version 1.0.0.5 
-
-files stored in structure 
-/images/{models}/{$id}/{field}.ext
-
- */ 
-
 class ImageBehavior extends ModelBehavior {
 
 	var $settings = null;
